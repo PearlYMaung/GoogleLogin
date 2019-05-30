@@ -72,6 +72,7 @@ public class Main2Activity extends AppCompatActivity {
 
         );
     }
+    //It's a test.
 
     @Override
     protected void onActivityResult(int requestCode, int resultCode, @Nullable Intent data) {
