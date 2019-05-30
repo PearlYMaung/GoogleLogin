@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoogleLoginTest</string>
+    <string name="facebook_application_id" translatable="false">1869360179832756</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb1869360179832756</string>
+</resources>

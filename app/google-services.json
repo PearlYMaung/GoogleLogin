@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "881277460575",
+    "firebase_url": "https://heroic-ruler-239810.firebaseio.com",
+    "project_id": "heroic-ruler-239810",
+    "storage_bucket": "heroic-ruler-239810.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881277460575:android:b515a79573a2273b",
+        "android_client_info": {
+          "package_name": "com.example.mi.googlelogintest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881277460575-o9jp8klhk544iemlkt8lqv012jtoq0q8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mi.googlelogintest",
+            "certificate_hash": "c1d49add499c11e84c62a6ee4bdb8170f39b8c07"
+          }
+        },
+        {
+          "client_id": "881277460575-0t6hu2erhlak90u3b5gjhk5kv8cr8670.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3yb1IMK-eOXw6tXNEnalze4eq8i3Y7cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881277460575-0t6hu2erhlak90u3b5gjhk5kv8cr8670.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
